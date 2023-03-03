@@ -1,14 +1,14 @@
-# [TwitterBio.com](https://www.twitterbio.com/)
+# [marketThis.xyz](https://www.marketThis.xyz/)
 
-This project generates Twitter bios for you using AI.
+This project generates marketing snippits for items you want to sell on Kijiji, eBay, Amazon, Etsy, etc.
 
-[![Twitter Bio Generator](./public/screenshot.png)](https://www.twitterbio.com)
+[![Twitter Bio Generator](./public/screenshot.png)](https://www.marketThis.xyz)
 
 ## How it works
 
 This project uses the [ChatGPT API](https://openai.com/api/) and [Vercel Edge functions](https://vercel.com/features/edge-functions) with streaming. It constructs a prompt based on the form and user input, sends it to the chatGPT API via a Vercel Edge function, then streams the response back to the application.
 
-If you'd like to see how I built this, check out the [video](https://youtu.be/JcE-1xzQTE0) or [blog post](https://vercel.com/blog/gpt-3-app-next-js-vercel-edge-functions).
+If you'd like to see how I built this, check out the original repo [here](https://github.com/Nutlope/twitterbio).
 
 ## Running Locally
 
