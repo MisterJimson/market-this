@@ -28,7 +28,7 @@ const Home: NextPage = () => {
       ? "Make sure there is a joke in there and it's a little ridiculous."
       : null
   }
-      Make sure each item description is less than 260 characters, has short sentences that are found in second hand marketplaces, and base them on this context: ${bio}${
+      Make sure each item description is less than 500 characters, has short sentences that are found in second hand marketplaces, and base them on this context: ${bio}${
     bio.slice(-1) === "." ? "" : "."
   }`;
 
