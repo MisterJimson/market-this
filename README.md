@@ -1,6 +1,6 @@
 # [marketThis.xyz](https://www.marketThis.xyz/)
 
-This project generates marketing snippits for items you want to sell on Kijiji, eBay, Amazon, Etsy, etc.
+This project generates marketing snippets for items you want to sell on Kijiji, eBay, Amazon, Etsy, etc.
 
 [![marketThis](./public/screenshot.png)](https://www.marketThis.xyz)
 
