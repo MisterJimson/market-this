@@ -27,7 +27,7 @@ export default function Footer() {
         <Link
           href="https://twitter.com/JimsonRai"
           className="group"
-          aria-label="TaxPal on Twitter"
+          aria-label="Jason Rai on Twitter"
         >
           <svg
             aria-hidden="true"

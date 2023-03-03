@@ -2,7 +2,7 @@
 
 This project generates marketing snippits for items you want to sell on Kijiji, eBay, Amazon, Etsy, etc.
 
-[![Twitter Bio Generator](./public/screenshot.png)](https://www.marketThis.xyz)
+[![marketThis](./public/screenshot.png)](https://www.marketThis.xyz)
 
 ## How it works
 
